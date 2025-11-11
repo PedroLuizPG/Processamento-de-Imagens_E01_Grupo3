@@ -62,9 +62,40 @@ Criar módulos em **Python** que permitam o **redimensionamento** e a **rotaçã
 ---
 
 ## 💾 Tecnologias Utilizadas
-
-
+- **Python** — Linguagem principal usada para o desenvolvimento do projeto.  
+- **scikit-image (`skimage.transform`)** — Aplicação de transformações geométricas em imagens, como rotação e redimensionamento.  
+- **OpenCV (`cv2`)** — Processamento e manipulação de imagens digitais.  
+- **Matplotlib (`matplotlib.pyplot`)** — Visualização gráfica e exibição de imagens e comparações.  
+- **NumPy (`numpy`)** — Manipulação de arrays e operações matemáticas sobre matrizes de pixels.  
+- **OS** — Gerenciamento de diretórios e arquivos.  
+- **Time** — Controle de tempo de execução e medições de desempenho.  
+- **Datetime** — Registro de data e hora de execução dos testes.  
+- **IPython.display** — Exibição dinâmica de saídas e mensagens formatadas no ambiente do Colab.  
+- **Pillow (`PIL`)** — Manipulação, conversão e salvamento de imagens.  
+- **Pandas** — Criação e manipulação de tabelas de resultados e comparações.  
+- **Google Colab Files (`google.colab.files`)** — Upload e download de arquivos dentro do ambiente Colab.  
+- **Zipfile** — Compactação e descompactação de conjuntos de imagens.  
+- **Ipywidgets** — Criação de controles interativos para ajustar parâmetros e visualizar resultados dinamicamente.
 ---
+
+## 🧠 Descrição Técnica
+
+O projeto foi desenvolvido utilizando diversas bibliotecas e ferramentas voltadas para o **processamento e análise de imagens**, com o objetivo de realizar transformações, visualizações e comparações de resultados de forma eficiente.  
+A seguir estão as principais tecnologias empregadas:
+
+- **`skimage.transform`** – utilizada para aplicar transformações geométricas em imagens, como rotação e redimensionamento, mantendo a qualidade visual.  
+- **`cv2 (OpenCV)`** – biblioteca poderosa para manipulação e processamento de imagens, responsável por leitura, exibição e conversão entre diferentes formatos.  
+- **`matplotlib.pyplot`** – empregada na visualização de imagens e gráficos comparativos de resultados.  
+- **`numpy`** – utilizada para operações matemáticas e manipulação de matrizes de pixels.  
+- **`os` e `time`** – usadas para gerenciamento de diretórios, arquivos e controle de tempo de execução dos processos.  
+- **`datetime`** – responsável por registrar data e hora das execuções, auxiliando no versionamento e acompanhamento dos testes.  
+- **`IPython.display`** – empregada para exibir saídas dinâmicas, como imagens e mensagens formatadas no ambiente do Colab.  
+- **`Pillow (PIL)`** – utilizada para abrir, converter e salvar imagens em múltiplos formatos.  
+- **`pandas`** – usada na criação e manipulação de tabelas de comparação de resultados, facilitando a análise quantitativa.  
+- **`google.colab.files`** – possibilita o upload e download de arquivos diretamente no ambiente do Google Colab.  
+- **`zipfile`** – usada para compactar e descompactar conjuntos de imagens de teste.  
+- **`ipywidgets`** – responsável pela criação de interfaces interativas, permitindo controlar parâmetros de forma dinâmica durante a execução do projeto.
+
 
 ## 📈 Aplicações
 
