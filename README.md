@@ -1,5 +1,8 @@
 # 🖼️ Grupo 3 - Rotação e Redimensionamento de Imagens
 
+**Acesse o código completo do projeto [aqui](https://colab.research.google.com/github/PedroLuizPG/Processamento-de-Imagens_E01_Grupo3/blob/main/src/Projeto.ipynb).**
+
+
 ## 🎯 Objetivo Geral
 Criar módulos em **Python** que permitam o **redimensionamento** e a **rotação de imagens digitais**, preservando a proporção e a qualidade final.
 
