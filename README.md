@@ -113,6 +113,18 @@ O módulo de Rotação e Redimensionamento pode ser utilizado em diversas áreas
 ---
 
 ## 👨‍💻 Equipe — Grupo 3
+### Responsabilidade de cada integrante: 
+- Gabriel Schettino :
+  -> responsável pela estrutura base do projeto, upload de imagens com validação, desenvolvimento das funções de rotação e redimensionamento, criação e atualização do vídeo de demonstração, implementação de métricas e comparações, definição da arquitetura do código e organizar as funcionalidades para cada integrante.
+- Igor Gabriel :
+  -> responsável pelas funções para aplicar transformações e processar lotes. 
+Formatações e organização do documento final.
+- Pedro Luiz :
+  -> responsável pelos módulos de rotacionamentoe, recorte e auto-align, Readme e alguns testes.
+- Antonny :
+  -> responsável pelo desenvolvimento das funções log_performance&baixar_resultados e comparar_imagens e Edição do documento.
+- Ian Lucas :
+  -> responsável pela análise e desenvolvimento do documento das semanas 1 a 5 e desenvolvimento de algumas funções.
 
 **Projeto Acadêmico:** Disciplina de *Processamento de Imagem com Python*  
 **Tema:** Rotação e Redimensionamento de Imagens Digitais  
